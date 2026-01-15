@@ -1,4 +1,4 @@
-# Cardiovascular-risk-prevention.
+# Cardiovascular-risk-prevention
 cardiovascular-risk-prediction/
 │
 ├── data/
